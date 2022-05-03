@@ -31,5 +31,25 @@
   },
   "author": "Eric De Sa",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "bin": {
+    "changelog-collector": "./build/linkmodule.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericdesa/docxtemplater-link-module-free.git"
+  },
+  "keywords": [
+    "npm",
+    "changelog",
+    "upgrade",
+    "outdated",
+    "reporter",
+    "update",
+    "dependencies"
+  ],
+  "bugs": {
+    "url": "https://github.com/ericdesa/docxtemplater-link-module-free/issues"
+  },
+  "homepage": "https://github.com/ericdesa/docxtemplater-link-module-free#readme"
 }
